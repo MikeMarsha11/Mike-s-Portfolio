@@ -518,8 +518,8 @@ footer {
     content: 'Switch To Light Mode';
 }
 
-/* @media (max-width: 992px) {
-  .themeSwitch{
+@media (max-width: 992px) {
+  .themeSwitch {
     left: 20px;
   }
   .navigation {
@@ -607,4 +607,4 @@ footer {
   .copyright {
     padding: 10px 20px;
   }
-} */
+}
