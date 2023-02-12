@@ -312,7 +312,8 @@ p {
   background: #d3d3d3;
 }
 .dark .services .content .serviceBox:hover{
-  background: #7D9D9C;
+  background: var(--white2);
+  filter: invert(1);
 }
 
 .services .content .serviceBox img {
