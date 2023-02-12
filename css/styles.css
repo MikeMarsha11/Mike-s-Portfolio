@@ -308,6 +308,9 @@ p {
   justify-content: center;
   flex-direction: column;
 }
+.services .content .serviceBox:hover{
+  background: #d3d3d3;
+}
 .dark .services .content .serviceBox:hover{
   background: #7D9D9C;
 }
