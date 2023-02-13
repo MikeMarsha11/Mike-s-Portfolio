@@ -202,8 +202,14 @@ p {
   margin-top: 10px;
   text-decoration: none;
 }
+.btn:hover{
+  background: #fff;
+  color: var(--black2);
+  border: 1px solid var(--black2);
+}
 .dark .btn:hover{
-  background: #7D9D9C;
+  background: #fff;
+  color: var(--black2);
 }
 
 .socialMedia {
@@ -230,7 +236,8 @@ p {
   font-size: 1.2em;
 }
 .dark .socialMedia li a:hover{
-  background: #7D9D9C;
+  background: #fff;
+  color: var(--black2);
 }
 
 .socialMedia li a:hover {
